@@ -1,0 +1,14 @@
+# Virtual Environment
+sentiment_analysis/
+env/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Data (Optional: usually good to keep data off GitHub if it's huge)
+# data/
