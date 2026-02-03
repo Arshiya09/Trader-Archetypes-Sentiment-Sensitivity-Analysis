@@ -1,0 +1,19 @@
+# Data Manipulation
+pandas
+numpy
+
+# Visualization
+matplotlib
+seaborn
+plotly
+
+# Machine Learning & Analytics
+scikit-learn
+statsmodels
+
+# Development Environment
+ipykernel
+notebook
+
+# Optional: Bonus Dashboard
+streamlit
