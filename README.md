@@ -24,3 +24,11 @@ This project analyzes trader performance and behavioral archetypes in response t
    python -m venv sentiment_analysis
    source sentiment_analysis/bin/activate  # Or .\sentiment_analysis\Scripts\activate on Windows
    ```
+
+   
+## 🖥️ How to Run the Interactive Dashboard
+I have included a Streamlit dashboard to visualize the behavioral clusters and sentiment analysis interactively.
+
+1. **Activate the environment:**
+   ```powershell
+   .\sentiment_analysis\Scripts\Activate.ps1
